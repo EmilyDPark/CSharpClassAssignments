@@ -10,6 +10,8 @@ namespace Assignment06FebNoMethods
     {
         static void Main(string[] args)
         {
+            // something
+            
             // Ask the user to enter a date
             Console.Write("Enter a month: ");
             int m = Convert.ToInt32(Console.ReadLine());
