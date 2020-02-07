@@ -1,0 +1,6 @@
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\Assignment06FEB\bin\Debug\Assignment06FEB.exe.config
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\Assignment06FEB\bin\Debug\Assignment06FEB.exe
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\Assignment06FEB\bin\Debug\Assignment06FEB.pdb
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\Assignment06FEB\obj\Debug\Assignment06FEB.csprojAssemblyReference.cache
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\Assignment06FEB\obj\Debug\Assignment06FEB.exe
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\Assignment06FEB\obj\Debug\Assignment06FEB.pdb
