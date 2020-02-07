@@ -41,9 +41,6 @@ namespace Assignment06FEB
             AddDaysToDate(2, 6, 2020, 200); // 8-24-2020
             AddDaysToDate(2, 6, 2020, 1000); // 11-2-2022
             AddDaysToDate(2, 6, 2020, 10000); // 6-24-2047
-
-            //AddDaysToDate(1, 1, 1835, 8280); <--- 
-            //AddDaysToDate(1, 1, 1835, 8281); <--- This one is wrong on timeanddate.com
         }
 
         // create a method to check if it is a leap year
