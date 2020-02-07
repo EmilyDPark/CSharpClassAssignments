@@ -1,0 +1,6 @@
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Assignment30JAN\bin\Debug\Assignment30JAN.exe.config
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Assignment30JAN\bin\Debug\Assignment30JAN.exe
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Assignment30JAN\bin\Debug\Assignment30JAN.pdb
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Assignment30JAN\obj\Debug\Assignment30JAN.csprojAssemblyReference.cache
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Assignment30JAN\obj\Debug\Assignment30JAN.exe
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Assignment30JAN\obj\Debug\Assignment30JAN.pdb

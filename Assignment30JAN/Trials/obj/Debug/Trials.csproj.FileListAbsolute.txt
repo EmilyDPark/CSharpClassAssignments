@@ -1,0 +1,5 @@
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Trials\bin\Debug\Trials.exe.config
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Trials\bin\Debug\Trials.exe
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Trials\bin\Debug\Trials.pdb
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Trials\obj\Debug\Trials.exe
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment30JAN\Trials\obj\Debug\Trials.pdb
