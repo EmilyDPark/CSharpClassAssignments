@@ -3,3 +3,4 @@ C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 
 C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FebNoMethods\Assignment06FebNoMethods\bin\Debug\Assignment06FebNoMethods.pdb
 C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FebNoMethods\Assignment06FebNoMethods\obj\Debug\Assignment06FebNoMethods.exe
 C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FebNoMethods\Assignment06FebNoMethods\obj\Debug\Assignment06FebNoMethods.pdb
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FebNoMethods\Assignment06FebNoMethods\obj\Debug\Assignment06FebNoMethods.csprojAssemblyReference.cache

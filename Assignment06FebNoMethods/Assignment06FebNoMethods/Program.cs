@@ -36,17 +36,13 @@ namespace Assignment06FebNoMethods
                 // The year can be evenly divided by 4;
                 // If the year can be evenly divided by 100, it is NOT a leap year, unless;
                 // The year is also evenly divisible by 400. Then it is a leap year.
-                if ((y % 4 == 0) || ((y % 4 == 0) && (y % 400 == 0)))
+                if (y % 400 == 0)
                 {
                     daysOfMonth[2] = 29;
                 }
-                else if (y % 100 != 0)
+                else if ((y % 4 == 0) && (y % 100 != 0))
                 {
-                    daysOfMonth[2] = 28;
-                }
-                else
-                {
-                    daysOfMonth[2] = 28;
+                    daysOfMonth[2] = 29;
                 }
 
                 // calculate the new day
@@ -68,7 +64,6 @@ namespace Assignment06FebNoMethods
                         m = 1;
                         d = newDay - daysOfMonth[12];
                         y += 1;
-
                         // do the while loop again with the new variables
                         continue;
                     }
