@@ -1,0 +1,6 @@
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\LeapYear\bin\Debug\LeapYear.exe.config
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\LeapYear\bin\Debug\LeapYear.exe
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\LeapYear\bin\Debug\LeapYear.pdb
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\LeapYear\obj\Debug\LeapYear.csprojAssemblyReference.cache
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\LeapYear\obj\Debug\LeapYear.exe
+C:\Users\emily\Desktop\CSC205 Programming in C#\In-Class Assignments\Assignment 06 Feb Add Days\Assignment06FEB\LeapYear\obj\Debug\LeapYear.pdb
