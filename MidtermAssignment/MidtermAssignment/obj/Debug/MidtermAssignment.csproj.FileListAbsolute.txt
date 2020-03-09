@@ -1,0 +1,6 @@
+C:\Users\emily\Desktop\CSC205 Programming in C#\Assignments\MidtermAssignment\MidtermAssignment\obj\Debug\MidtermAssignment.csprojAssemblyReference.cache
+C:\Users\emily\Desktop\CSC205 Programming in C#\Assignments\MidtermAssignment\MidtermAssignment\bin\Debug\MidtermAssignment.exe.config
+C:\Users\emily\Desktop\CSC205 Programming in C#\Assignments\MidtermAssignment\MidtermAssignment\bin\Debug\MidtermAssignment.exe
+C:\Users\emily\Desktop\CSC205 Programming in C#\Assignments\MidtermAssignment\MidtermAssignment\bin\Debug\MidtermAssignment.pdb
+C:\Users\emily\Desktop\CSC205 Programming in C#\Assignments\MidtermAssignment\MidtermAssignment\obj\Debug\MidtermAssignment.exe
+C:\Users\emily\Desktop\CSC205 Programming in C#\Assignments\MidtermAssignment\MidtermAssignment\obj\Debug\MidtermAssignment.pdb
